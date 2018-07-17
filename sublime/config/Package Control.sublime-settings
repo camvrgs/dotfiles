@@ -1,0 +1,22 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Babel",
+		"Babel Snippets",
+		"Boxy Theme",
+		"Color Highlighter",
+		"HTML-CSS-JS Prettify",
+		"Indent XML",
+		"Modific",
+		"Package Control",
+		"Pretty YAML",
+		"Sass",
+		"SublimeLinter",
+		"SublimeLinter-contrib-sass-lint",
+		"SublimeLinter-eslint"
+	]
+}
